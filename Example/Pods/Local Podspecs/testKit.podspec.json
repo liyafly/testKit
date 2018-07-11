@@ -1,0 +1,22 @@
+{
+  "name": "testKit",
+  "version": "0.1.0",
+  "summary": "A short description of testKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liyafly/testKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyafly": "986239896@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liyafly/testKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testKit/Classes/**/*"
+}
